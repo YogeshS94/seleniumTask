@@ -1,0 +1,70 @@
+2022-03-21 00:00:33,177, INFO, test_e2e, Title of the page is: Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+2022-03-21 00:00:35,588, INFO, test_e2e, https://www.goibibo.com/flights/
+2022-03-21 00:00:35,617, INFO, test_e2e, Book Domestic and International Flight Tickets
+2022-03-21 00:00:35,701, INFO, test_e2e, One way button is clicked: None
+2022-03-21 00:00:35,799, INFO, test_e2e, Round Trip button is clicked: None
+2022-03-21 00:00:35,892, INFO, test_e2e, Multi-City button is clicked: None
+2022-03-21 00:00:41,584, INFO, test_e2e, Value of from dropdown is : Chennai
+2022-03-21 00:00:50,965, INFO, test_e2e, 2 Adults, 1 Child, 1 Infant
+2022-03-21 00:00:51,266, INFO, test_e2e, Mandatory for all travellers to carry a valid ARMED FORCES ID or dependent card at the time of boarding
+2022-03-21 00:03:59,359, INFO, test_e2e, Title of the page is: Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+2022-03-21 00:04:01,851, INFO, test_e2e, https://www.goibibo.com/flights/
+2022-03-21 00:04:01,880, INFO, test_e2e, Book Domestic and International Flight Tickets
+2022-03-21 00:04:01,957, INFO, test_e2e, One way button is clicked: None
+2022-03-21 00:04:02,106, INFO, test_e2e, Round Trip button is clicked: None
+2022-03-21 00:04:02,201, INFO, test_e2e, Multi-City button is clicked: None
+2022-03-21 00:04:07,907, INFO, test_e2e, Value of from dropdown is : Chennai
+2022-03-21 00:04:17,259, INFO, test_e2e, 2 Adults, 1 Child, 1 Infant
+2022-03-21 00:04:17,661, INFO, test_e2e, Mandatory for all travellers to carry a valid ARMED FORCES ID or dependent card at the time of boarding
+2022-03-21 00:14:48,253, INFO, test_e2e, Title of the page is: Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+2022-03-21 00:17:02,623, INFO, test_e2e, Title of the page is: Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+2022-03-21 00:23:57,052, INFO, test_e2e, Title of the page is: Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+2022-03-21 00:24:38,585, INFO, test_e2e, Title of the page is: Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+2022-03-21 00:25:28,333, INFO, test_e2e, Title of the page is: Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+2022-03-21 00:33:00,818, INFO, test_e2e, Title of the page is: Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+2022-03-21 00:33:51,933, INFO, test_e2e, Title of the page is: Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+2022-03-21 00:34:26,438, INFO, test_e2e, Title of the page is: Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+2022-03-21 00:34:31,077, INFO, test_e2e, https://www.goibibo.com/flights/
+2022-03-21 00:34:31,106, INFO, test_e2e, Book Domestic and International Flight Tickets
+2022-03-21 00:34:31,187, INFO, test_e2e, One way button is clicked: None
+2022-03-21 00:34:31,302, INFO, test_e2e, Round Trip button is clicked: None
+2022-03-21 00:34:31,397, INFO, test_e2e, Multi-City button is clicked: None
+2022-03-21 00:34:37,054, INFO, test_e2e, Value of from dropdown is : Chennai
+2022-03-21 00:34:46,476, INFO, test_e2e, 2 Adults, 1 Child, 1 Infant
+2022-03-21 00:34:46,861, INFO, test_e2e, Mandatory for all travellers to carry a valid ARMED FORCES ID or dependent card at the time of boarding
+2022-03-21 11:48:07,104, INFO, test_e2e, Title of the page is: Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+2022-03-21 11:48:09,494, INFO, test_e2e, https://www.goibibo.com/flights/
+2022-03-21 11:48:09,528, INFO, test_e2e, Book Domestic and International Flight Tickets
+2022-03-21 11:48:09,610, INFO, test_e2e, One way button is clicked: None
+2022-03-21 11:48:09,715, INFO, test_e2e, Round Trip button is clicked: None
+2022-03-21 11:48:09,815, INFO, test_e2e, Multi-City button is clicked: None
+2022-03-21 11:48:15,545, INFO, test_e2e, Value of from dropdown is : Chennai
+2022-03-21 11:48:24,992, INFO, test_e2e, 2 Adults, 1 Child, 1 Infant
+2022-03-21 11:48:25,396, INFO, test_e2e, Mandatory for all travellers to carry a valid ARMED FORCES ID or dependent card at the time of boarding
+2022-03-25 10:07:27,539, INFO, test_e2e, Title of the page is: Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+2022-03-25 10:07:29,365, INFO, test_e2e, https://www.goibibo.com/flights/
+2022-03-25 10:07:29,440, INFO, test_e2e, Book Domestic and International Flight Tickets
+2022-03-25 10:07:29,523, INFO, test_e2e, One way button is clicked: None
+2022-03-25 10:07:29,638, INFO, test_e2e, Round Trip button is clicked: None
+2022-03-25 10:07:29,804, INFO, test_e2e, Multi-City button is clicked: None
+2022-03-25 10:07:35,522, INFO, test_e2e, Value of from dropdown is : Chennai
+2022-03-25 10:07:44,959, INFO, test_e2e, 2 Adults, 1 Child, 1 Infant
+2022-03-25 10:07:45,357, INFO, test_e2e, Mandatory for all travellers to carry a valid ARMED FORCES ID or dependent card at the time of boarding
+2022-03-25 18:57:59,860, INFO, test_e2e, Title of the page is: Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+2022-03-25 18:58:01,599, INFO, test_e2e, https://www.goibibo.com/flights/
+2022-03-25 18:58:01,661, INFO, test_e2e, Book Domestic and International Flight Tickets
+2022-03-25 18:58:01,740, INFO, test_e2e, One way button is clicked: None
+2022-03-25 18:58:01,873, INFO, test_e2e, Round Trip button is clicked: None
+2022-03-25 18:58:02,017, INFO, test_e2e, Multi-City button is clicked: None
+2022-03-25 18:58:07,721, INFO, test_e2e, Value of from dropdown is : Chennai
+2022-03-25 18:58:17,165, INFO, test_e2e, 2 Adults, 1 Child, 1 Infant
+2022-03-25 18:58:17,553, INFO, test_e2e, Mandatory for all travellers to carry a valid ARMED FORCES ID or dependent card at the time of boarding
+2022-03-26 00:44:56,773, INFO, test_e2e, Title of the page is: Goibibo - Best Travel Website. Book Hotels, Flights, Trains, Bus and Cabs with upto 50% off
+2022-03-26 00:44:58,575, INFO, test_e2e, https://www.goibibo.com/flights/
+2022-03-26 00:44:58,646, INFO, test_e2e, Book Domestic and International Flight Tickets
+2022-03-26 00:44:58,757, INFO, test_e2e, One way button is clicked: None
+2022-03-26 00:44:58,896, INFO, test_e2e, Round Trip button is clicked: None
+2022-03-26 00:44:59,054, INFO, test_e2e, Multi-City button is clicked: None
+2022-03-26 00:45:04,811, INFO, test_e2e, Value of from dropdown is : Chennai
+2022-03-26 00:45:14,396, INFO, test_e2e, 2 Adults, 1 Child, 1 Infant
+2022-03-26 00:45:14,820, INFO, test_e2e, Mandatory for all travellers to carry a valid ARMED FORCES ID or dependent card at the time of boarding
